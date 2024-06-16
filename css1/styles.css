@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: aqua;
+}
+
+.navbar {
+    background-color: #e72727;
+    overflow: hidden;
+}
+
+.navbar-list {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+}
+
+.navbar-item {
+    display: inline;
+    justify-content: space-between;
+}
+
